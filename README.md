@@ -1,2 +1,2 @@
 # Dissertation
-This project was part of my final year project, and includes using python and a variety of libraries to compare the use of different machine learning algorithms to a CSV dataset of perovskites which was created by merging various databases found online.
+This endeavor served as a cornerstone of my final-year project, showcasing the seamless integration of Python and a diverse array of cutting-edge libraries. Its focal point revolves around a comprehensive exploration of distinct machine learning algorithms applied to a meticulously curated CSV dataset of perovskites. This dataset, an amalgamation of various online databases, reflects a meticulous synthesis designed to unveil insights and patterns within the realm of perovskite research
